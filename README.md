@@ -15,7 +15,7 @@
 git clone 
 
 # aller dans le projet 
-cd SiretInvader
+cd SiretInvaderAtlas
 
 # Installer les déppandances
 npm install
@@ -39,7 +39,7 @@ Cette commande crée un dossier : chunk ou sont stocker les fichiers .
 
 
 # MongoDB connexion .
-DB="mongodb+srv://nabil:Bejaia954@cluster0.kcnnt.mongodb.net/pm2?retryWrites=true&w=majority";
+DB="mongodb+srv://user:"motdepasse"@cluster0.kcnnt.mongodb.net/pm2?retryWrites=true&w=majority";
 
 # Step 4 - démarrer les  process
  pm2 start  : qui lance l’insertion dans la base de donnée et crée des fichiers logs
