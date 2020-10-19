@@ -311,3 +311,179 @@ Error: write EPIPE
     at Timeout._onTimeout (/Users/nabiladnane/Desktop/SiretInvader/node_modules/@pm2/io/build/main/services/metrics.js:74:28)
     at listOnTimeout (internal/timers.js:531:17)
     at processTimers (internal/timers.js:475:7)
+Error: ENOENT: no such file or directory, scandir 'data/chunks'
+    at Object.readdirSync (fs.js:854:3)
+    at Object.<anonymous> (/Users/nabiladnane/Desktop/SiretInvader/index.js:4:18)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/lib/ProcessContainer.js:303:25
+    at wrapper (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+Error: ENOENT: no such file or directory, scandir 'data/chunks'
+    at Object.readdirSync (fs.js:854:3)
+    at Object.<anonymous> (/Users/nabiladnane/Desktop/SiretInvader/index.js:4:18)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/lib/ProcessContainer.js:303:25
+    at wrapper (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+Error: ENOENT: no such file or directory, scandir 'data/chunks'
+    at Object.readdirSync (fs.js:854:3)
+    at Object.<anonymous> (/Users/nabiladnane/Desktop/SiretInvader/index.js:4:18)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/lib/ProcessContainer.js:303:25
+    at wrapper (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+Error: ENOENT: no such file or directory, scandir 'data/chunks'
+    at Object.readdirSync (fs.js:854:3)
+    at Object.<anonymous> (/Users/nabiladnane/Desktop/SiretInvader/index.js:4:18)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/lib/ProcessContainer.js:303:25
+    at wrapper (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+Error: ENOENT: no such file or directory, scandir 'data/chunks'
+    at Object.readdirSync (fs.js:854:3)
+    at Object.<anonymous> (/Users/nabiladnane/Desktop/SiretInvader/index.js:4:18)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/lib/ProcessContainer.js:303:25
+    at wrapper (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+Error: ENOENT: no such file or directory, scandir 'data/chunks'
+    at Object.readdirSync (fs.js:854:3)
+    at Object.<anonymous> (/Users/nabiladnane/Desktop/SiretInvader/index.js:4:18)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/lib/ProcessContainer.js:303:25
+    at wrapper (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+Error: ENOENT: no such file or directory, scandir 'data/chunks'
+    at Object.readdirSync (fs.js:854:3)
+    at Object.<anonymous> (/Users/nabiladnane/Desktop/SiretInvader/index.js:4:18)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/lib/ProcessContainer.js:303:25
+    at wrapper (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+Error: ENOENT: no such file or directory, scandir 'data/chunks'
+    at Object.readdirSync (fs.js:854:3)
+    at Object.<anonymous> (/Users/nabiladnane/Desktop/SiretInvader/index.js:4:18)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/lib/ProcessContainer.js:303:25
+    at wrapper (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+Error: ENOENT: no such file or directory, scandir 'data/chunks'
+    at Object.readdirSync (fs.js:854:3)
+    at Object.<anonymous> (/Users/nabiladnane/Desktop/SiretInvader/index.js:4:18)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/lib/ProcessContainer.js:303:25
+    at wrapper (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+Error: ENOENT: no such file or directory, scandir 'data/chunks'
+    at Object.readdirSync (fs.js:854:3)
+    at Object.<anonymous> (/Users/nabiladnane/Desktop/SiretInvader/index.js:4:18)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/lib/ProcessContainer.js:303:25
+    at wrapper (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+Error: ENOENT: no such file or directory, scandir 'data/chunks'
+    at Object.readdirSync (fs.js:854:3)
+    at Object.<anonymous> (/Users/nabiladnane/Desktop/SiretInvader/index.js:4:18)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/lib/ProcessContainer.js:303:25
+    at wrapper (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+Error: ENOENT: no such file or directory, scandir 'data/chunks'
+    at Object.readdirSync (fs.js:854:3)
+    at Object.<anonymous> (/Users/nabiladnane/Desktop/SiretInvader/index.js:4:18)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/lib/ProcessContainer.js:303:25
+    at wrapper (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+Error: ENOENT: no such file or directory, scandir 'data/chunks'
+    at Object.readdirSync (fs.js:854:3)
+    at Object.<anonymous> (/Users/nabiladnane/Desktop/SiretInvader/index.js:4:18)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/lib/ProcessContainer.js:303:25
+    at wrapper (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+Error: ENOENT: no such file or directory, scandir 'data/chunks'
+    at Object.readdirSync (fs.js:854:3)
+    at Object.<anonymous> (/Users/nabiladnane/Desktop/SiretInvader/index.js:4:18)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/lib/ProcessContainer.js:303:25
+    at wrapper (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+Error: ENOENT: no such file or directory, scandir 'data/chunks'
+    at Object.readdirSync (fs.js:854:3)
+    at Object.<anonymous> (/Users/nabiladnane/Desktop/SiretInvader/index.js:4:18)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/lib/ProcessContainer.js:303:25
+    at wrapper (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+Error: ENOENT: no such file or directory, scandir 'data/chunks'
+    at Object.readdirSync (fs.js:854:3)
+    at Object.<anonymous> (/Users/nabiladnane/Desktop/SiretInvader/index.js:4:18)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/lib/ProcessContainer.js:303:25
+    at wrapper (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /Users/nabiladnane/.nvm/versions/node/v12.13.0/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16

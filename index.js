@@ -72,6 +72,10 @@ pm2.connect(function (err) {
     });
 
     // TODO add pause bus
-
+ /* pm2.list((err, list) => {
+      list.map(item => {
+        pm2.delete(item.pm_id);
+      })
+    });*/
   });
 });
