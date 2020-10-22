@@ -12,8 +12,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d11d84f0-a3f5-424a-94e7-0c835014934e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/pm2-errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/pm2-errors.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecosystem.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/ecosystem.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/mongoose.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/mongoose.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,12 +76,24 @@
       <workItem from="1603093457511" duration="3325000" />
       <workItem from="1603099809664" duration="1306000" />
       <workItem from="1603101472253" duration="531000" />
-      <workItem from="1603102189154" duration="2236000" />
+      <workItem from="1603102189154" duration="2654000" />
+      <workItem from="1603187106977" duration="1255000" />
+      <workItem from="1603203927559" duration="500000" />
+      <workItem from="1603205561369" duration="207000" />
+      <workItem from="1603353057637" duration="90000" />
     </task>
+    <task id="LOCAL-00001" summary="test pause">
+      <created>1603110678350</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603110678350</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -100,22 +112,26 @@
                   </entry>
                 </map>
               </option>
-              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test pause" />
+    <option name="LAST_COMMIT_MESSAGE" value="test pause" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="115" key="#Notifications" timestamp="1603101569697">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="115" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1603101569697" />
-    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1603110436242">
+    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1603110678166">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1603110436242" />
+    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1603110678166" />
     <state width="1398" height="204" key="GridCell.Tab.0.bottom" timestamp="1603099802572">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -136,10 +152,14 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1603101574356" />
-    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1603102190091">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1603110680728">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1603102190091" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1603110680728" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1603205561107">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1603205561107" />
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603103342483">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

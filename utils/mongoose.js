@@ -1,9 +1,9 @@
 const mongoose = require('mongoose');
 
 const enterpriseSchema = new mongoose.Schema({
-  siren: String,
+  siren: {type:String,unique:true,required:true},
   nic: String,
-  siret: String,
+  siret: {type:String,unique:true,required:true},
   statutDiffusionEtablissement: String,
   dateCreationEtablissement: String,
   trancheEffectifsEtablissement: String,
