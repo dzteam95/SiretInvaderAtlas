@@ -10,10 +10,41 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d11d84f0-a3f5-424a-94e7-0c835014934e" name="Default Changelist" comment="">
+    <list default="true" id="d11d84f0-a3f5-424a-94e7-0c835014934e" name="Default Changelist" comment="test pause">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecosystem.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/ecosystem.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/mongoose.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/mongoose.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-10.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-11.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-12.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-13.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-14.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-15.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-16.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-17.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-18.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-19.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-2.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-20.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-21.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-23.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-24.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-25.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-26.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-28.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-29.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-3.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-30.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-31.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-4.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-5.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-6.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-7.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-8.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/chunks/chunk-9.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +111,7 @@
       <workItem from="1603187106977" duration="1255000" />
       <workItem from="1603203927559" duration="500000" />
       <workItem from="1603205561369" duration="207000" />
-      <workItem from="1603353057637" duration="90000" />
+      <workItem from="1603353057637" duration="1104000" />
     </task>
     <task id="LOCAL-00001" summary="test pause">
       <created>1603110678350</created>
@@ -89,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603110678350</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test pause">
+      <created>1603353161334</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603353161334</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,14 +190,18 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1603101574356" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1603110680728">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1603353164353">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1603110680728" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1603353164353" />
     <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1603205561107">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1603205561107" />
+    <state x="513" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603353829730">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="513" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1603353829730" />
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603103342483">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

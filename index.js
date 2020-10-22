@@ -9,7 +9,6 @@ if (!files.length) {
 }
 
 function startProcess (fileIndex) {
-  console.log('start process : ' + fileIndex)
   const chunk = 'chunk-' + fileIndex + '.csv';
 
   pm2.start({
@@ -46,7 +45,6 @@ pm2.connect(function (err) {
 
   pm2.launchBus(function (err, bus) {
     bus.on('process:end', function (packet) {
-      console.log('end of process :'+ packet.process.name)
       pm2.delete(packet.process.name, function (e) {
         if (e) {
           console.error('Error on process deleting.', e)
